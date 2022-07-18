@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vocalinternet
 - 👀 I’m interested in <strike>Говнокод</strike> Программирование
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Kotlin, Python
 - 📫 [Telegram](https://t.me/calvision)
 
 <!---
